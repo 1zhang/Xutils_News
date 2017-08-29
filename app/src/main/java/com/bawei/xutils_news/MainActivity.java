@@ -56,6 +56,11 @@ public class MainActivity extends AppCompatActivity {
                         li.add(new Bean(title,img));
                     }
 
+
+
+
+
+
                     Myadapter my = new Myadapter();
                     lv.setAdapter(my);
 
